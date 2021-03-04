@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.ToDoList{
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  align-items: center;
+  justify-content: center;
+  
+  
+}
